@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://statelesssquad.github.io/sample-app-skeleton-public/</loc></url>
-  <url><loc>https://statelesssquad.github.io/sample-app-skeleton-public/privacy/</loc></url>
-  <url><loc>https://statelesssquad.github.io/sample-app-skeleton-public/support/</loc></url>
-  <url><loc>https://statelesssquad.github.io/sample-app-skeleton-public/terms/</loc></url>
+  <url><loc>https://statelesssquad.github.io/slingstar-public/</loc></url>
+  <url><loc>https://statelesssquad.github.io/slingstar-public/privacy/</loc></url>
+  <url><loc>https://statelesssquad.github.io/slingstar-public/support/</loc></url>
+  <url><loc>https://statelesssquad.github.io/slingstar-public/terms/</loc></url>
 </urlset>
