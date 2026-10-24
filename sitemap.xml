@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://statelesssquad.github.io/slingstar-public/</loc></url>
-  <url><loc>https://statelesssquad.github.io/slingstar-public/privacy/</loc></url>
-  <url><loc>https://statelesssquad.github.io/slingstar-public/support/</loc></url>
-  <url><loc>https://statelesssquad.github.io/slingstar-public/terms/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://statelesssquad.github.io/slingstar-public/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://statelesssquad.github.io/slingstar-public/assets/og.png</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/slingstar-public/assets/shots/hero.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/slingstar-public/assets/shots/ember.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/slingstar-public/assets/shots/aurora.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/slingstar-public/assets/shots/abyss.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/slingstar-public/assets/shots/fever.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/slingstar-public/assets/shots/hangar.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/slingstar-public/assets/shots/day.webp</image:loc></image:image>
+    <video:video><video:thumbnail_loc>https://statelesssquad.github.io/slingstar-public/assets/shots/hero.webp</video:thumbnail_loc><video:title>Slingstar gameplay</video:title><video:description>Tap. Sling. Shine.</video:description><video:content_loc>https://statelesssquad.github.io/slingstar-public/assets/demo.mp4</video:content_loc></video:video>
+  </url>
+  <url>
+    <loc>https://statelesssquad.github.io/slingstar-public/privacy/</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://statelesssquad.github.io/slingstar-public/support/</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://statelesssquad.github.io/slingstar-public/terms/</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
 </urlset>
